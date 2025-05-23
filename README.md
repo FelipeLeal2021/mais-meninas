@@ -46,7 +46,7 @@ O **+Meninas** é um projeto do IFMG – Campus Ouro Branco, com o objetivo de c
 
 ## 🌐 Veja um exemplo online
 
-🔗 [Clique aqui para acessar o projeto publicado](https://felipeleal2021.github.io/mais-meninas/)
+🔗 [Clique aqui para acessar o projeto publicado](https://felipeleal2021.github.io/portfolio-felipe-leal/)
 
 ---
 
