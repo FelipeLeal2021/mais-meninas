@@ -1,54 +1,79 @@
-# +Meninas – Blog HTML/CSS
+# ✨ Projeto +Meninas – Blog HTML/CSS
 
-O projeto **+Meninas** tem como propósito incentivar meninas a participarem da área de programação, promovendo inclusão e diversidade no setor tecnológico. Com foco em HTML e CSS, o projeto capacita as participantes a desenvolverem seus próprios sites pessoais.
+> 🌈 Incentivando meninas a descobrirem o poder da tecnologia e da criação web!
 
-## 🎯 Objetivos
+O **+Meninas** é um projeto do IFMG – Campus Ouro Branco, com o objetivo de capacitar meninas em **HTML** e **CSS**, promovendo inclusão, criatividade e autonomia no mundo da programação. Durante os encontros, cada participante desenvolveu seu próprio site pessoal, aprendendo desde os fundamentos da web até a publicação final no GitHub Pages.
 
-- Introduzir os fundamentos da programação web.
-- Desenvolver habilidades com HTML e CSS.
-- Publicar um site pessoal via GitHub Pages.
-- Criar um ambiente acolhedor e colaborativo para meninas explorarem tecnologia.
+---
 
-## 📚 Cronograma dos Encontros
+## 🎯 Propósito
 
-**23/11 – Introdução à Programação Web**  
-Tecnologia, Internet, GitHub e protagonismo feminino na TI.
+- 👩‍💻 Despertar o interesse de meninas pela tecnologia.
+- 🧠 Ensinar os fundamentos da programação web.
+- 🛠️ Desenvolver sites pessoais com HTML e CSS.
+- 🌍 Publicar os projetos na internet com GitHub Pages.
 
-**30/11 – Estruturando uma Página Web**  
-HTML, estrutura básica de sites, navegação e apresentação pessoal.
+---
 
-**07/12 – Personalização com CSS**  
-Estilização com classes, layout, margens, fontes e cores.
+## 📅 Cronograma
 
-**14/12 – Finalização e Publicação**  
-Refinamento do site, validação de links e publicação no GitHub Pages.
+| Data    | Tema                            | Atividades |
+|---------|----------------------------------|------------|
+| **23/11** | Introdução à Web & GitHub        | Conceitos básicos, protagonismo feminino, criação de contas GitHub |
+| **30/11** | Estruturação com HTML            | Páginas com navbar, textos e links |
+| **07/12** | Estilização com CSS              | Cores, fontes, layout e identidade visual |
+| **14/12** | Finalização & Publicação         | Ajustes finais, validação e publicação online |
 
-## 💻 Atividades Realizadas
+---
 
-- Criação e configuração de repositórios no GitHub.
-- Desenvolvimento de páginas HTML com navbar, apresentação e redes sociais.
-- Estilização com CSS utilizando classes e atributos.
-- Publicação dos sites pessoais com GitHub Pages.
+## 🛠️ Tecnologias Utilizadas
 
-## 🌐 Projeto Online
+- HTML5
+- CSS3
+- Git e GitHub
+- GitHub Pages
 
-Você pode visualizar um exemplo do projeto publicado aqui:  
-👉 [Acessar projeto](https://felipeleal2021.github.io/mais-meninas/)
+---
 
-## 👩‍💻 Conquistas
+## 💡 O Que Construímos
 
-- Todas as participantes criaram e publicaram seus sites pessoais.
-- Inclusão de iniciantes que nunca haviam usado um computador.
-- Superação de dificuldades técnicas com apoio e paciência.
-- Ambiente acolhedor e encorajador que promoveu confiança.
+- Repositórios no GitHub organizados
+- Sites pessoais com apresentação e redes sociais
+- Páginas estilizadas com CSS
+- Sites publicados e acessíveis para o mundo! 🌐
 
-## 🙌 Agradecimentos
+---
 
-Projeto coordenado por **Suelen Mapa de Paula** no **IFMG - Campus Ouro Branco**.  
-Agradecemos a todas as participantes, colegas e professores que tornaram essa jornada possível.
+## 🌐 Veja um exemplo online
 
-## 🚀 Próximos Passos
+🔗 [Clique aqui para acessar o projeto publicado](https://felipeleal2021.github.io/mais-meninas/)
 
-- Iniciar novas turmas com conteúdos mais avançados.
-- Introduzir JavaScript e design responsivo.
-- Fortalecer a missão de inclusão feminina na tecnologia.
+---
+
+## 🏆 Conquistas
+
+- 💪 Participantes sem experiência prévia criaram seus próprios sites!
+- 🧘‍♀️ Superação do medo de errar, com apoio e acolhimento.
+- 🤝 Ambiente colaborativo e criativo para todas.
+- 🚀 Sites 100% publicados e funcionais!
+
+---
+
+## 👩‍🏫 Coordenação
+
+Este projeto foi coordenado por **Suelen Mapa de Paula**, com apoio do Instituto Federal de Minas Gerais – Campus Ouro Branco.
+
+---
+
+## 🌱 Próximos Passos
+
+- Novas turmas e expansão do projeto.
+- Introdução ao JavaScript e responsividade.
+- Continuidade na missão de tornar a tecnologia um espaço **mais diverso e inclusivo**.
+
+---
+
+## 💜 Agradecimentos
+
+A todas as participantes, professoras, colegas e apoiadores que tornaram o projeto +Meninas possível: **muito obrigado!**  
+Juntos, estamos construindo um futuro mais tecnológico e igualitário.
